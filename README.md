@@ -1,3 +1,14 @@
+# ◆Blitz.js(React's FW)
+
+※辞める噂がありますが、正確には辞めるのではなく、
+『fork して独自の変更を加えていく』という方向
+https://qiita.com/rana_kualu/items/69ef668e240ae9ccec87
+
+※そのうち本家のマージに耐え切れなくなって、
+『分離の道』を歩むかも？？
+
+※道を違えて成功した例もほぼなし
+
 [![Blitz.js](https://raw.githubusercontent.com/blitz-js/art/master/github-cover-photo.png)](https://blitzjs.com)
 
 This is a [Blitz.js](https://github.com/blitz-js/blitz) app.
